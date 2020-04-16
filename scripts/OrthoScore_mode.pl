@@ -1,7 +1,9 @@
 use strict;
 
+#Usage: perl OrthoScore_mode.pl <MatrixMaker_counter.pl output file> > Output_file_name
+
 my $matrix = $ARGV[0]; #The matrix file
-#my $rastID = $ARGV[1]; #The RAST jobID file
+
 
 #The first task, counting the rows.
 
