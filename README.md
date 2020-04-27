@@ -44,7 +44,7 @@ The second file is named *nameslist*. It contains the names of the genomes files
 ### Trying the scripts
 Download the scripts *MatrixMaker_simple.pl* or the *MatrixMaker_counter.pl* in the *scripts* directory. Type in the command line either:
 
-`perl MatrixMaker_simple.pl nameslist fastortho_output.end > output_simple.matrix`
+`perl MatrixMaker_simple.pl nameslist fastortho_output.end > output_simple.matrix`  
 `perl MatrixMaker_counter.pl nameslist fastortho_output.end > output_counter.matrix`
 
 The *simple* script output should look like this:
