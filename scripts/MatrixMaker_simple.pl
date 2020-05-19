@@ -1,3 +1,5 @@
+#!/usr/bin/perl -w
+
 use strict;
 
 #This script creates an abscense-presence matrix of sequence families vs genome set, that is a 0 when a sequence family is present in a genome and a 0 when it is not.
