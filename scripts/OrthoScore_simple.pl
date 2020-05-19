@@ -1,3 +1,5 @@
+#!/usr/bin/perl -w
+
 use strict;
 
 #Usage: perl OrthoScore_simple.pl <MatrixMaker.pl output file> > Output_file_name
