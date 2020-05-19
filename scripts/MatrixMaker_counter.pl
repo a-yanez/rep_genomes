@@ -1,3 +1,5 @@
+#!/usr/bin/perl -w
+
 use strict;
 
 #This script counts the number of homologue sequences per genome found in each sequence family by FastOrtho and creates a matrix of sequence families vs genome set. We used to think that FastOrtho (under default parameters) clustered aa sequences of a given genome set in orthologue families, however we noticed that several genes from the same genome were in the same family (group). 
